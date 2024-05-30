@@ -46,7 +46,7 @@
    - 変数名: `UE_ENGINE_DIRECTORY`
    - 変数値: `D:\Applications\Epic Games\UE_5.3\`
    <br>
-   またはシステム環境変数のパスに直接追加
+   またはシステム環境変数のパスに直接追加:
    - 変数値: `D:\Applications\Epic Games\UE_5.3\`
 
 8. **UnrealBuildTool.dllの手動ビルド**
