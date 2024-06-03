@@ -79,3 +79,7 @@
 2. **解決方法:** 上記の手順に従い、`MinimumiOSVersion`を`IOS_15`に修正。
 
 これらの手順により、ビルドエラーが解決され、プロジェクトが問題なくビルドされました。
+
+この後になぜかまた動かなくなる
+
+https://github.com/nagoring/Unreal_Engine_Rider_Build_Guide/blob/main/ja_UE_Rider_Build_part2.md
