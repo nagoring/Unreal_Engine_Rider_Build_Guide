@@ -52,7 +52,7 @@
 8. **UnrealBuildTool.dllの手動ビルド**
    管理者権限でコマンドプロンプトを開き、Unreal Engineのバッチファイルディレクトリに移動します:
    ```sh
-   cd D:\Applications\Epic Games\UE_5.3\Engine\Build\BatchFiles
+   cd "D:\Applications\Epic Games\UE_5.3\Engine\Build\BatchFiles"
    ./RunUAT.bat BuildUBT
    ```
    ⚠︎私はこれを行っていません。必要があればやってください。
